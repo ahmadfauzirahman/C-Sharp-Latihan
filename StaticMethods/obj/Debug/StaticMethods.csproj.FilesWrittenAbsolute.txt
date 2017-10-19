@@ -1,0 +1,5 @@
+/home/ojikdev/RiderProjects/Parameters/StaticMethods/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ojikdev/RiderProjects/Parameters/StaticMethods/bin/Debug/StaticMethods.exe.mdb
+/home/ojikdev/RiderProjects/Parameters/StaticMethods/bin/Debug/StaticMethods.exe
+/home/ojikdev/RiderProjects/Parameters/StaticMethods/obj/Debug/StaticMethods.exe
+/home/ojikdev/RiderProjects/Parameters/StaticMethods/obj/Debug/StaticMethods.exe.mdb

@@ -1,0 +1,5 @@
+/home/ojikdev/RiderProjects/Parameters/ContohSwitch/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ojikdev/RiderProjects/Parameters/ContohSwitch/bin/Debug/ContohSwitch.exe.mdb
+/home/ojikdev/RiderProjects/Parameters/ContohSwitch/bin/Debug/ContohSwitch.exe
+/home/ojikdev/RiderProjects/Parameters/ContohSwitch/obj/Debug/ContohSwitch.exe
+/home/ojikdev/RiderProjects/Parameters/ContohSwitch/obj/Debug/ContohSwitch.exe.mdb

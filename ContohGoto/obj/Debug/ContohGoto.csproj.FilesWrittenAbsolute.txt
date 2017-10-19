@@ -1,0 +1,5 @@
+/home/ojikdev/RiderProjects/Parameters/ContohGoto/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ojikdev/RiderProjects/Parameters/ContohGoto/bin/Debug/ContohGoto.exe.mdb
+/home/ojikdev/RiderProjects/Parameters/ContohGoto/bin/Debug/ContohGoto.exe
+/home/ojikdev/RiderProjects/Parameters/ContohGoto/obj/Debug/ContohGoto.exe
+/home/ojikdev/RiderProjects/Parameters/ContohGoto/obj/Debug/ContohGoto.exe.mdb

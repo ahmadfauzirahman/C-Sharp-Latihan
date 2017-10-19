@@ -1,0 +1,5 @@
+/home/ojikdev/RiderProjects/Parameters/ContohBreak/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ojikdev/RiderProjects/Parameters/ContohBreak/bin/Debug/ContohBreak.exe.mdb
+/home/ojikdev/RiderProjects/Parameters/ContohBreak/bin/Debug/ContohBreak.exe
+/home/ojikdev/RiderProjects/Parameters/ContohBreak/obj/Debug/ContohBreak.exe
+/home/ojikdev/RiderProjects/Parameters/ContohBreak/obj/Debug/ContohBreak.exe.mdb

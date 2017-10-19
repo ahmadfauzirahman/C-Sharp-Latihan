@@ -1,0 +1,5 @@
+/home/ojikdev/RiderProjects/Parameters/Varibel/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ojikdev/RiderProjects/Parameters/Varibel/bin/Debug/Varibel.exe.mdb
+/home/ojikdev/RiderProjects/Parameters/Varibel/bin/Debug/Varibel.exe
+/home/ojikdev/RiderProjects/Parameters/Varibel/obj/Debug/Varibel.exe
+/home/ojikdev/RiderProjects/Parameters/Varibel/obj/Debug/Varibel.exe.mdb

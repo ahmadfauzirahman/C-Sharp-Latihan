@@ -1,0 +1,5 @@
+/home/ojikdev/RiderProjects/Parameters/KondisidanAksi/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ojikdev/RiderProjects/Parameters/KondisidanAksi/bin/Debug/KondisidanAksi.exe.mdb
+/home/ojikdev/RiderProjects/Parameters/KondisidanAksi/bin/Debug/KondisidanAksi.exe
+/home/ojikdev/RiderProjects/Parameters/KondisidanAksi/obj/Debug/KondisidanAksi.exe
+/home/ojikdev/RiderProjects/Parameters/KondisidanAksi/obj/Debug/KondisidanAksi.exe.mdb

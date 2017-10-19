@@ -1,0 +1,5 @@
+/home/ojikdev/RiderProjects/Parameters/ContohWhile/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ojikdev/RiderProjects/Parameters/ContohWhile/bin/Debug/ContohWhile.exe.mdb
+/home/ojikdev/RiderProjects/Parameters/ContohWhile/bin/Debug/ContohWhile.exe
+/home/ojikdev/RiderProjects/Parameters/ContohWhile/obj/Debug/ContohWhile.exe
+/home/ojikdev/RiderProjects/Parameters/ContohWhile/obj/Debug/ContohWhile.exe.mdb

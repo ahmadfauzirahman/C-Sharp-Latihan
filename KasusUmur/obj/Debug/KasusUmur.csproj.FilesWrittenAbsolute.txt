@@ -1,0 +1,5 @@
+/home/ojikdev/RiderProjects/Parameters/KasusUmur/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ojikdev/RiderProjects/Parameters/KasusUmur/bin/Debug/KasusUmur.exe.mdb
+/home/ojikdev/RiderProjects/Parameters/KasusUmur/bin/Debug/KasusUmur.exe
+/home/ojikdev/RiderProjects/Parameters/KasusUmur/obj/Debug/KasusUmur.exe
+/home/ojikdev/RiderProjects/Parameters/KasusUmur/obj/Debug/KasusUmur.exe.mdb

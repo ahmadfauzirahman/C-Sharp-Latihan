@@ -1,0 +1,5 @@
+/home/ojikdev/RiderProjects/Parameters/If/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ojikdev/RiderProjects/Parameters/If/bin/Debug/If.exe.mdb
+/home/ojikdev/RiderProjects/Parameters/If/bin/Debug/If.exe
+/home/ojikdev/RiderProjects/Parameters/If/obj/Debug/If.exe
+/home/ojikdev/RiderProjects/Parameters/If/obj/Debug/If.exe.mdb

@@ -1,0 +1,5 @@
+/home/ojikdev/RiderProjects/Parameters/OutTest/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ojikdev/RiderProjects/Parameters/OutTest/bin/Debug/OutTest.exe.mdb
+/home/ojikdev/RiderProjects/Parameters/OutTest/bin/Debug/OutTest.exe
+/home/ojikdev/RiderProjects/Parameters/OutTest/obj/Debug/OutTest.exe
+/home/ojikdev/RiderProjects/Parameters/OutTest/obj/Debug/OutTest.exe.mdb

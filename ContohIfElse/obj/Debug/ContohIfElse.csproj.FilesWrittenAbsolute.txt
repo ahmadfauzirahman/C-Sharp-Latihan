@@ -1,0 +1,5 @@
+/home/ojikdev/RiderProjects/Parameters/ContohIfElse/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ojikdev/RiderProjects/Parameters/ContohIfElse/bin/Debug/ContohIfElse.exe.mdb
+/home/ojikdev/RiderProjects/Parameters/ContohIfElse/bin/Debug/ContohIfElse.exe
+/home/ojikdev/RiderProjects/Parameters/ContohIfElse/obj/Debug/ContohIfElse.exe
+/home/ojikdev/RiderProjects/Parameters/ContohIfElse/obj/Debug/ContohIfElse.exe.mdb

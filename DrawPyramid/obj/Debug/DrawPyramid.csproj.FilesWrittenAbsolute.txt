@@ -1,0 +1,5 @@
+/home/ojikdev/RiderProjects/Parameters/DrawPyramid/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ojikdev/RiderProjects/Parameters/DrawPyramid/bin/Debug/DrawPyramid.exe.mdb
+/home/ojikdev/RiderProjects/Parameters/DrawPyramid/bin/Debug/DrawPyramid.exe
+/home/ojikdev/RiderProjects/Parameters/DrawPyramid/obj/Debug/DrawPyramid.exe
+/home/ojikdev/RiderProjects/Parameters/DrawPyramid/obj/Debug/DrawPyramid.exe.mdb
